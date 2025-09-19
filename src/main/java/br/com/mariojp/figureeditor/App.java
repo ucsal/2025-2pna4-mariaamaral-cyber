@@ -1,4 +1,4 @@
-package sadsadsad;
+package br.com.mariojp.figureeditor;
 
 import javax.swing.*;
 import java.awt.*;
